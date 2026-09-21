@@ -37917,7 +37917,7 @@
         "Id": "608b2155-e3ae-43fe-8223-c5bb66725f5e"
       },
       {
-        "MetadataId": "07627489-5e56-4c5b-8b85-2543b4a4320b",
+        "MetadataId": "ad0a2e97-5f05-4571-ba67-578b909fb390",
         "ParentId": "d356e6c8-5ad4-491b-9994-8351dda4d7aa",
         "Title": "Dayforce Tasks",
         "Description": "",
@@ -38190,7 +38190,7 @@
         "Id": "cdcbbf4d-46bb-4963-847d-c07f9cc557fd"
       },
       {
-        "MetadataId": "d02f8c7a-72af-4ae9-84ad-c878329cec48",
+        "MetadataId": "0a4943ab-0a9b-43e8-a9c6-793982993dc9",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "Mary's test cases",
         "Description": "",
@@ -38346,7 +38346,7 @@
         "Id": "f87826a5-9ded-4a49-90cc-477adb2edfe5"
       },
       {
-        "MetadataId": "21925112-e304-4d93-a9b0-14999637166a",
+        "MetadataId": "31710aa1-8104-41cd-a868-c19125c31851",
         "ParentId": "d356e6c8-5ad4-491b-9994-8351dda4d7aa",
         "Title": "Common Flows and Subflows",
         "Description": "",
@@ -38595,18 +38595,18 @@
         "Id": "045e628a-4582-4313-8997-251c06f6ab38"
       },
       {
-        "Title": "Dayforce Tasks",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "07627489-5e56-4c5b-8b85-2543b4a4320b"
-      },
-      {
         "Title": "Run Report <span>",
         "Description": "",
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "07cf37aa-22d3-4295-abbf-7bb4b8825ed6"
+      },
+      {
+        "Title": "Mary's test cases",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "0a4943ab-0a9b-43e8-a9c6-793982993dc9"
       },
       {
         "Title": "text <input> 4",
@@ -38630,18 +38630,18 @@
         "Id": "1aadf1c7-4c54-40b2-8ad4-6e15a18bf7ce"
       },
       {
-        "Title": "Common Flows and Subflows",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "21925112-e304-4d93-a9b0-14999637166a"
-      },
-      {
         "Title": "Select all (902) <button>",
         "Description": "",
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "23b7f8f2-78bd-4826-bad4-9b1c96e35dfb"
+      },
+      {
+        "Title": "Common Flows and Subflows",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "31710aa1-8104-41cd-a868-c19125c31851"
       },
       {
         "Title": "PM <div>",
@@ -38763,6 +38763,13 @@
         "Id": "a87b6fd4-dc2b-48aa-9954-5873bf3346ed"
       },
       {
+        "Title": "Dayforce Tasks",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "ad0a2e97-5f05-4571-ba67-578b909fb390"
+      },
+      {
         "Title": "submit <input> 2",
         "Description": "",
         "Type": "WebElement",
@@ -38789,13 +38796,6 @@
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "cfe2038e-6af4-491d-aa10-8eaf5f66af2a"
-      },
-      {
-        "Title": "Mary's test cases",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "d02f8c7a-72af-4ae9-84ad-c878329cec48"
       },
       {
         "Title": "onetrust-close-btn-handler banner-close-button ot- <button> 1",
@@ -39132,7 +39132,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/OQJOlk8fBEG-f0x4icfrlA/Common/#SHViPyZpc0ZpcnN0RmVhdHVyZT10cnVl",
         "Fields": "",
-        "StrategyListSource": "f44e5f18-3c29-4acb-83e7-4b0aa7f7fb6e",
+        "StrategyListSource": "225c7bc0-d8ca-47ac-820e-c8c7ef56845b",
         "HasImage": "False",
         "RawId": "a06cbab1-0af7-4332-91e2-20ead7c2a93c",
         "SelectedStrategyId": "696a3cbf-7bba-4629-ae94-4a2920b8a2f9",
@@ -39148,7 +39148,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/uawq72ZDGUG-22Vd0LeeyQ/Common/#/reporting/home",
         "Fields": "",
-        "StrategyListSource": "d5d95ef9-496c-4da8-8fb5-4b7e01d6d1aa",
+        "StrategyListSource": "657d6e90-79fe-41d6-97b3-4e090a9b341e",
         "HasImage": "False",
         "RawId": "44c32ee9-ea4e-485b-9c96-29ec8f9a7721",
         "SelectedStrategyId": "dd87ac48-ac07-4c3f-b7ce-642bb0194555",
@@ -39164,7 +39164,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/M1XWcglDckKoR5tOPg_WVw/Common/#/reporting/home",
         "Fields": "",
-        "StrategyListSource": "515e2d24-8dfa-4c88-bf71-6188a64f1a25",
+        "StrategyListSource": "0755945d-a484-47ac-907c-7c599b267bea",
         "HasImage": "False",
         "RawId": "b8cf322f-eff5-46ed-98a7-b0983e4f4272",
         "SelectedStrategyId": "70f1b177-34df-4f18-9990-b2f84e1fe08d",
@@ -39180,7 +39180,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/lPyoobivX0Sgsksy4EkF5w/Common/#/reporting/home",
         "Fields": "",
-        "StrategyListSource": "a031dc38-6b96-4695-9723-1cd4011c0023",
+        "StrategyListSource": "c379f9dd-eb03-4d7f-8804-b9705e5cdfd0",
         "HasImage": "False",
         "RawId": "f3e37745-1ba0-4764-98f3-756a4d84032f",
         "SelectedStrategyId": "03ef3180-f947-4a69-9b91-d8e7b2fd7af0",
@@ -39196,7 +39196,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/jmtz5v1rBkC9EaDhWzJvIg/Common/#/reporting/home",
         "Fields": "",
-        "StrategyListSource": "c14b6ca5-d568-43ba-8515-241035735711",
+        "StrategyListSource": "d8c2b8b3-04f2-490b-864a-ff3ab3fec501",
         "HasImage": "False",
         "RawId": "a9050bd2-a4c1-45f7-923f-5b298ba4060c",
         "SelectedStrategyId": "ceb56a17-f9f3-4ad1-8118-87e75092afeb",
@@ -39212,7 +39212,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/qjR1buYoTUexCgq-kzRtjQ/Common/#/reporting/home",
         "Fields": "",
-        "StrategyListSource": "172b3c28-ec8b-4e00-8e81-33d51b76e81d",
+        "StrategyListSource": "d17465ed-ec26-4ea2-87a5-f3b89683f456",
         "HasImage": "False",
         "RawId": "0e94409b-7610-4303-b719-e93114c374ed",
         "SelectedStrategyId": "881958fa-8847-4347-8bd0-fbc9e1a77030",
@@ -39228,7 +39228,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/saNQLBuACk6bPcE1A4RtmA/Common/#/reporting/home",
         "Fields": "",
-        "StrategyListSource": "a6a857b6-94aa-4d84-830d-6b280a3b87e9",
+        "StrategyListSource": "dba129fe-e47a-467c-af3f-373cf345f78b",
         "HasImage": "False",
         "RawId": "0ee9a889-5d04-49e1-abb5-6e5b7b53e68b",
         "SelectedStrategyId": "2af3e658-c461-411e-9698-ef7b21ac591f",
@@ -39244,7 +39244,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/saNQLBuACk6bPcE1A4RtmA/Common/#/reporting/home",
         "Fields": "",
-        "StrategyListSource": "2eebc6d4-278f-4b8f-9687-0cdb4156f2d4",
+        "StrategyListSource": "10d4b35c-45dc-4b0c-8143-5861b7d81c80",
         "HasImage": "False",
         "RawId": "8ce8b071-383d-4e5e-8086-8985c1acdde7",
         "SelectedStrategyId": "da7c9674-71a8-43ba-96c4-ac50bc51f270",
@@ -39260,7 +39260,7 @@
       {
         "Uri": "https://us261.dayforcehcm.com/MyDayforce/u/xhJkmuOMp0qDJGQxtCLwaA/Common/#SHViPyZpc0ZpcnN0RmVhdHVyZT10cnVl",
         "Fields": "",
-        "StrategyListSource": "00d9e0cc-c9f1-4239-a67f-64f1b4d9a295",
+        "StrategyListSource": "747c664c-b81d-4ef1-9f30-05b928c5101e",
         "HasImage": "False",
         "RawId": "d6672625-d244-40b6-8603-aadcbe6b8269",
         "SelectedStrategyId": "e641cac5-ffca-40c9-95e7-e550d1073429",
@@ -39276,7 +39276,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/oUyRJzxJmEeC9JvaY_Oxig/Common/#SHVi",
         "Fields": "",
-        "StrategyListSource": "d1f47ff8-53fc-4e1c-a688-79ca3f178301",
+        "StrategyListSource": "061160d5-1009-4605-860e-f4b856ef2dab",
         "HasImage": "False",
         "RawId": "12bebca4-82f3-46a6-bd19-68aea4bc519d",
         "SelectedStrategyId": "065838c6-6113-4061-a42e-2041f5e83ebf",
@@ -39292,7 +39292,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/saNQLBuACk6bPcE1A4RtmA/Common/#/reporting/home",
         "Fields": "",
-        "StrategyListSource": "cf41295e-bb33-4ecc-b416-5dc1c18abcb3",
+        "StrategyListSource": "12d9b30b-9204-4ca4-8a63-c2a9c19fe5e1",
         "HasImage": "False",
         "RawId": "062e9104-63e5-430a-8b78-e56fd5292116",
         "SelectedStrategyId": "88e78fb5-59f4-495b-8651-11f037a25b45",
@@ -39308,7 +39308,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/jmtz5v1rBkC9EaDhWzJvIg/Common/#/reporting/home",
         "Fields": "",
-        "StrategyListSource": "a2606606-8506-400b-a043-0c033ce1913d",
+        "StrategyListSource": "278422f6-0b42-4781-9d90-478aef94dbb5",
         "HasImage": "False",
         "RawId": "7ef5aafc-4957-4dd3-b1af-c904aee2324e",
         "SelectedStrategyId": "b6da58f8-aa8e-417c-9dc3-68b6fde117d3",
@@ -39324,7 +39324,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/R5WBi2FT4U6aiVbVeD7QcQ/Common/#/reporting/home",
         "Fields": "",
-        "StrategyListSource": "b9233cff-e33e-457c-aaf1-ef8244f9dd5d",
+        "StrategyListSource": "68c2da3c-75f4-4201-b24e-7bcb4861abfa",
         "HasImage": "False",
         "RawId": "7f7529ba-1853-4bae-9fc7-192c5dfc6601",
         "SelectedStrategyId": "270400f1-bb5a-4d04-aa75-d2064956752c",
@@ -39340,7 +39340,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/saNQLBuACk6bPcE1A4RtmA/Common/#/reporting/home",
         "Fields": "",
-        "StrategyListSource": "9245263b-6e4b-4e62-b90f-83bb0e540109",
+        "StrategyListSource": "d1b372ee-f7a2-4026-8027-634af2328b7b",
         "HasImage": "False",
         "RawId": "044c2df1-1e86-415b-b981-0bf6f6ba4347",
         "SelectedStrategyId": "c3a30683-2b79-4580-9406-b1a33564fd9f",
@@ -39356,7 +39356,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/OQJOlk8fBEG-f0x4icfrlA/Common/#SHViPyZpc0ZpcnN0RmVhdHVyZT10cnVl",
         "Fields": "",
-        "StrategyListSource": "819c2933-4540-4de9-b002-07d73786f43b",
+        "StrategyListSource": "fc4985c0-7c7c-4a9a-b85d-88dd267f08c3",
         "HasImage": "False",
         "RawId": "c66372d2-58f1-4581-883b-0b1558a9560f",
         "SelectedStrategyId": "0ce6428d-47ec-48a3-8625-e1f8cd90ca2f",
@@ -39372,7 +39372,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/FD15teQCpkmOTlZ6hTcisg/Common/#/reporting/home",
         "Fields": "",
-        "StrategyListSource": "be620a8c-f378-49ed-9946-9d93118dde5b",
+        "StrategyListSource": "37892c8d-4d91-47a2-939f-2c221a3547ea",
         "HasImage": "False",
         "RawId": "e24d4fe7-8c98-4e89-a780-0f25dc19a875",
         "SelectedStrategyId": "3bf4f61b-60b3-4c30-84e6-79a6f1068722",
@@ -39388,7 +39388,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/oUyRJzxJmEeC9JvaY_Oxig/Common/#SHViPyZpc0ZpcnN0RmVhdHVyZT10cnVl",
         "Fields": "",
-        "StrategyListSource": "02c8fdb3-ec7a-4976-a648-85e5dcb8a3d7",
+        "StrategyListSource": "1983d76b-69eb-4a12-9969-52597d261d6d",
         "HasImage": "False",
         "RawId": "bad179b9-b474-4638-a3cb-ee13879a6aa9",
         "SelectedStrategyId": "d5ea64e9-5a09-4f89-9af0-02e5c46a1d1a",
@@ -39404,7 +39404,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/FRyS4XrOek_kclg4p1b7mA/Common/",
         "Fields": "",
-        "StrategyListSource": "ac053936-03bf-4416-9090-d38e7add5009",
+        "StrategyListSource": "ea49d0e4-4b96-449e-8515-ca69ce5625bb",
         "HasImage": "False",
         "RawId": "17a95eac-420b-4280-b3fd-2a571bc07252",
         "SelectedStrategyId": "b583830b-ee7d-450a-ae85-905affea5e43",
@@ -39420,7 +39420,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/Q1O9DR9pl0m-WTt4sC8_cg/Common/",
         "Fields": "",
-        "StrategyListSource": "eef37b3b-4e30-430b-ab2b-5bf07f1146c1",
+        "StrategyListSource": "c2f072a9-cd93-4861-8d73-4b70d6a4eda7",
         "HasImage": "False",
         "RawId": "9becb754-0f36-4555-b957-733497b3ba24",
         "SelectedStrategyId": "ffc4828b-5287-4a3d-bf57-efe550ed233b",
@@ -39436,7 +39436,7 @@
       {
         "Uri": "https://test.dayforcehcm.com/mydayforce/MyDayforce.aspx",
         "Fields": "",
-        "StrategyListSource": "bbe07be0-ad2f-456f-9f05-5f6f2c54f355",
+        "StrategyListSource": "975527c9-cc16-4a63-958e-d21be97afa8b",
         "HasImage": "False",
         "RawId": "c88e16cf-f892-4e49-a8e9-307611391da8",
         "SelectedStrategyId": "d72734f9-27d7-4af0-b99b-5f101ce0639c",
@@ -39452,7 +39452,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/oUyRJzxJmEeC9JvaY_Oxig/Common/#SHVi",
         "Fields": "",
-        "StrategyListSource": "02269753-f9de-4a8e-a059-7bb6df7c0036",
+        "StrategyListSource": "2a9436db-1538-4f75-abaf-ce2a4405c1c5",
         "HasImage": "False",
         "RawId": "69333d6a-63c4-4b8c-a9a1-ab871e903d87",
         "SelectedStrategyId": "7017798f-503d-436b-9a04-8b4ee6e60b78",
@@ -39468,7 +39468,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/saNQLBuACk6bPcE1A4RtmA/Common/#/reporting/home",
         "Fields": "",
-        "StrategyListSource": "c50a1b92-94cf-46cf-bb24-03e4362cb410",
+        "StrategyListSource": "7f3dfaa8-18b1-4dc3-a756-73dbd73fbb60",
         "HasImage": "False",
         "RawId": "7e6189a3-4880-4d5b-a683-395a2edb6dd4",
         "SelectedStrategyId": "f4ef08c3-06c3-482c-80c5-2283026812fd",
@@ -39484,7 +39484,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/5DRuIw0J4UivHtF8e1X0Ww/Common/#SHViPyZpc0ZpcnN0RmVhdHVyZT10cnVl",
         "Fields": "",
-        "StrategyListSource": "77e1efdc-a22d-4b30-b614-a145029c8edc",
+        "StrategyListSource": "d0864483-87d0-497b-a459-cf13bf1473a2",
         "HasImage": "False",
         "RawId": "977cad57-a872-4867-9982-bdb12e81265a",
         "SelectedStrategyId": "d7d48474-eb0a-42c0-8df3-dcdc5b673e2f",
@@ -39500,7 +39500,7 @@
       {
         "Uri": "https://test.dayforcehcm.com/mydayforce/MyDayforce.aspx",
         "Fields": "",
-        "StrategyListSource": "98dcf88e-0dcd-494e-9c93-1954c5c51012",
+        "StrategyListSource": "53130011-5e71-47d4-b6dd-71b1b5ba24b4",
         "HasImage": "False",
         "RawId": "ef428f42-9a1f-438a-9050-dc046927ad59",
         "SelectedStrategyId": "aa798f73-0695-44fe-a6b7-c9f4c574e8b0",
@@ -39516,7 +39516,7 @@
       {
         "Uri": "https://test.dayforcehcm.com/mydayforce/MyDayforce.aspx",
         "Fields": "",
-        "StrategyListSource": "2ff53a0f-fe16-4205-9c2c-07a3b45c57e7",
+        "StrategyListSource": "fb312efe-d179-4267-9fa1-f73313500e3a",
         "HasImage": "False",
         "RawId": "d8f7f2d0-02d5-4156-b7f9-1cddda800c10",
         "SelectedStrategyId": "b5eaf8c3-a038-43f5-97d8-180149fedbb0",
@@ -39532,7 +39532,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/p_jxsbjqeECcfFeBBT-YQQ/Common/",
         "Fields": "",
-        "StrategyListSource": "5ad14aab-77ee-47f8-86e9-ff442e8f21c3",
+        "StrategyListSource": "b154b042-b634-47ec-adb4-41c2a0456c63",
         "HasImage": "False",
         "RawId": "889abcab-7e44-4c21-a345-e6ec7987beb0",
         "SelectedStrategyId": "3b0092aa-c1cd-45f3-88e7-c154090c2a92",
@@ -39548,7 +39548,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/5ZnmqRtOgEaRHjhBMy1B7A/Common/#/reporting/home",
         "Fields": "",
-        "StrategyListSource": "17d8160e-dca0-46eb-8ba7-a81381489de8",
+        "StrategyListSource": "2c84b7b5-f725-45f3-bdd8-82e8d81aef18",
         "HasImage": "False",
         "RawId": "9c1029e5-99fa-4c4b-98bf-be576d099279",
         "SelectedStrategyId": "079c8f73-640f-4da0-b165-43b04ebbe10f",
@@ -39564,7 +39564,7 @@
       {
         "Uri": "https://test.dayforcehcm.com/mydayforce/login.aspx",
         "Fields": "",
-        "StrategyListSource": "1d2c4c52-b164-45b7-97cb-9c762d5ba5d7",
+        "StrategyListSource": "52596b76-3bf9-4f71-9a39-f70965ef6c5d",
         "HasImage": "False",
         "RawId": "aac8ca13-a0f4-4ac2-b047-5d695228c5fc",
         "SelectedStrategyId": "f3d8f926-9e2e-4d50-baf1-a8638791330b",
@@ -39580,7 +39580,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/y9ieDEyYNkiBlDFJkdbdhg/Common/#SHViPyZpc0ZpcnN0RmVhdHVyZT10cnVl",
         "Fields": "",
-        "StrategyListSource": "dcd1b783-9017-4b39-9ca3-1daa8d7f9d69",
+        "StrategyListSource": "37a1dae0-98af-449a-9463-c8a11996d08f",
         "HasImage": "False",
         "RawId": "9c51b122-6f98-41d2-a7dd-610fc2d57fd4",
         "SelectedStrategyId": "a6202365-addf-474c-a91c-74ca99ba3f91",
@@ -39596,7 +39596,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/M1XWcglDckKoR5tOPg_WVw/Common/#/reporting/home",
         "Fields": "",
-        "StrategyListSource": "709c2fe0-6025-4e86-afc1-acc6eba1af4d",
+        "StrategyListSource": "dba2f385-56c3-440e-880f-1dd166418f2d",
         "HasImage": "False",
         "RawId": "a2b79d65-194e-4768-ac63-419c3984e565",
         "SelectedStrategyId": "e873f956-a984-4370-b481-32b6b1148f6c",
@@ -39612,7 +39612,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/saNQLBuACk6bPcE1A4RtmA/Common/#/reporting/home",
         "Fields": "",
-        "StrategyListSource": "2fd940cc-182f-4bf2-81cd-b5dbd7edf5c2",
+        "StrategyListSource": "0fcea582-36fe-432b-8230-0df0a0b8f216",
         "HasImage": "False",
         "RawId": "3b6cdc00-ed29-4b22-a2de-530f4568f563",
         "SelectedStrategyId": "5687d54e-f70d-47ea-9187-9fd91f6019b9",
@@ -39628,7 +39628,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/jmtz5v1rBkC9EaDhWzJvIg/Common/#/reporting/home",
         "Fields": "",
-        "StrategyListSource": "7127d061-289f-40e1-b37d-e3ba036eea15",
+        "StrategyListSource": "bc9366e2-aae2-4cc2-9363-d037a7b12826",
         "HasImage": "False",
         "RawId": "0afacbf2-6835-4a85-ada6-a027326fe540",
         "SelectedStrategyId": "e0dfacf3-4b45-4355-9ac5-46ee5ea6c593",
@@ -39644,7 +39644,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/jmtz5v1rBkC9EaDhWzJvIg/Common/#/reporting/home",
         "Fields": "",
-        "StrategyListSource": "b81e02d9-08cd-4da8-a55f-0f0e451e0d04",
+        "StrategyListSource": "a1f9e3a2-1034-40e2-8b94-9ffac18eae1e",
         "HasImage": "False",
         "RawId": "e82769cd-9b42-4c93-9a0c-e4825ce251ed",
         "SelectedStrategyId": "d7aaf5c6-5dcf-4a05-a5eb-ff5ceb74fe21",
@@ -39660,7 +39660,7 @@
       {
         "Uri": "https://test.dayforcehcm.com/mydayforce/MyDayforce.aspx",
         "Fields": "",
-        "StrategyListSource": "15c73205-727b-4c4f-a76a-3b3123552e5a",
+        "StrategyListSource": "cf7b91e6-5256-44dc-b2cc-e9828bf60684",
         "HasImage": "False",
         "RawId": "73620a2a-f9ac-42b7-a774-411b2e193c09",
         "SelectedStrategyId": "baadf500-034f-4218-b4f9-435b005e86a9",
@@ -39676,7 +39676,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/qjR1buYoTUexCgq-kzRtjQ/Common/#/reporting/home",
         "Fields": "",
-        "StrategyListSource": "2f241de1-7708-4799-93fe-86b4c7a46bd6",
+        "StrategyListSource": "eb90e8e6-46f7-4d18-a884-94e64636d0d0",
         "HasImage": "False",
         "RawId": "d7e5e28d-85ca-4416-b03b-c1593c1ac10e",
         "SelectedStrategyId": "86bb0358-2ae5-4c6e-86bc-b938ace35aba",
@@ -39692,7 +39692,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/p_jxsbjqeECcfFeBBT-YQQ/Common/",
         "Fields": "",
-        "StrategyListSource": "8a8294fd-58fe-4e85-8340-c36907d3ef1b",
+        "StrategyListSource": "6ba2fe4d-007d-463a-a17d-3e864344327e",
         "HasImage": "False",
         "RawId": "0c508115-e911-4acd-84ce-4bde8e0c66e8",
         "SelectedStrategyId": "b40b0504-4bb6-416c-8fd9-f9d21ebf2e62",
@@ -39708,7 +39708,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/p_jxsbjqeECcfFeBBT-YQQ/Common/",
         "Fields": "",
-        "StrategyListSource": "da27a9bf-b60f-4fcf-b70b-562b899f7e4f",
+        "StrategyListSource": "397970fb-8e57-4597-9884-363d81cfa91f",
         "HasImage": "False",
         "RawId": "3f087d78-9cab-4f1b-8e2e-50f0a7ddf106",
         "SelectedStrategyId": "3ae2a3cb-19a7-4706-9463-02356a30c79a",
@@ -39724,7 +39724,7 @@
       {
         "Uri": "https://test.dayforcehcm.com/mydayforce/login.aspx",
         "Fields": "",
-        "StrategyListSource": "bb57b57b-959e-43c0-87c9-73fe45c05e21",
+        "StrategyListSource": "aaf048a4-f9f7-43cd-97d1-4900d090046e",
         "HasImage": "False",
         "RawId": "32414fe0-d082-4d2f-8b7e-15f8f0690c30",
         "SelectedStrategyId": "1aa491ac-ae1f-45b0-bd9d-3833006610dc",
