@@ -18,9 +18,9 @@
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "AgentConfigurationId": "",
       "Description": "",
-      "DateCreation": "9/21/2026 8:58:47 AM +00:00",
-      "DateModify": "9/21/2026 8:58:47 AM +00:00",
-      "Title": "Test Case 8768 - HR - Update employment status (City) - Copy",
+      "DateCreation": "9/21/2026 8:58:48 AM +00:00",
+      "DateModify": "9/21/2026 8:58:48 AM +00:00",
+      "Title": "Test Case 8769 - HR - Remove future status and work assignment records upon termination (City)",
       "Type": "Flow",
       "IsDeleted": "False",
       "Id": "d036a902-73e3-4ab8-9045-d50f87e5c618",
@@ -17168,7 +17168,7 @@
         "Id": "563bfb3b-f0a8-4bb7-9013-dd5285cd6047"
       },
       {
-        "MetadataId": "13f6a653-cd35-4ec3-9f1e-ef09a9f847f0",
+        "MetadataId": "1c463143-411b-4efb-996e-39dcf21d18e2",
         "ParentId": "9a4ea96f-5f83-40ae-ac80-b81632d2c964",
         "Title": "Login with Prompt",
         "Description": "",
@@ -17220,7 +17220,7 @@
         "Id": "80d3892a-ae28-4e3a-9fc5-243a7cfd43ef"
       },
       {
-        "MetadataId": "af016408-eaa4-4d2f-bff4-8cd4e5e1a6f6",
+        "MetadataId": "6c2873e0-701b-4123-a119-4cd275935f59",
         "ParentId": "8c89d722-7c8d-44d7-aee4-d59cd1b9e6fe",
         "Title": "New Folder",
         "Description": "",
@@ -17233,7 +17233,7 @@
         "Id": "8223e9cc-5d6a-43c4-816e-654ab9ee88ae"
       },
       {
-        "MetadataId": "28709ebd-ca46-4764-88ec-90209328f265",
+        "MetadataId": "4328f912-8e5e-460c-b08f-95b5f8b51222",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "Jenna's test cases",
         "Description": "",
@@ -17246,7 +17246,7 @@
         "Id": "883ee559-cf24-49c2-8d6e-876dd33af1b2"
       },
       {
-        "MetadataId": "2a1002e6-ab13-4cc1-9bbf-e6588c884022",
+        "MetadataId": "63de7f28-6048-486e-a8bd-793fc6d9f237",
         "ParentId": "b8dbf3c4-2122-4b73-8334-21c1cd1b0e1e",
         "Title": "Pat's test cases",
         "Description": "",
@@ -17272,7 +17272,7 @@
         "Id": "99b0d720-9784-4672-83db-3cc4bb9cfb29"
       },
       {
-        "MetadataId": "cbeedf1b-2e88-455b-a6d1-835fa0f7e6f5",
+        "MetadataId": "e6575c81-ab7c-4af0-889a-c03548e52732",
         "ParentId": "883ee559-cf24-49c2-8d6e-876dd33af1b2",
         "Title": "Current Test Flows",
         "Description": "",
@@ -17324,7 +17324,7 @@
         "Id": "bd5bba59-e69d-47a7-abec-62542dfc4910"
       },
       {
-        "MetadataId": "ba01ea2f-5482-4917-8c4b-a6c24a824d7f",
+        "MetadataId": "69cab936-99e3-4ca6-a655-654503b9b3a0",
         "ParentId": "8223e9cc-5d6a-43c4-816e-654ab9ee88ae",
         "Title": "Test Case 8768 - HR - Update employment status (City)",
         "Description": "",
@@ -17499,7 +17499,7 @@
         "Description": "",
         "Type": "Folder",
         "LinkedWith": "None",
-        "Id": "13f6a653-cd35-4ec3-9f1e-ef09a9f847f0"
+        "Id": "1c463143-411b-4efb-996e-39dcf21d18e2"
       },
       {
         "Title": "Next <span>",
@@ -17514,20 +17514,6 @@
         "Type": "SubFlow",
         "LinkedWith": "None",
         "Id": "238b87b2-95d5-4346-9a57-60d9e3914e91"
-      },
-      {
-        "Title": "Jenna's test cases",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "28709ebd-ca46-4764-88ec-90209328f265"
-      },
-      {
-        "Title": "Pat's test cases",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "2a1002e6-ab13-4cc1-9bbf-e6588c884022"
       },
       {
         "Title": "radio <input>",
@@ -17551,6 +17537,13 @@
         "Id": "406ba3b0-894b-44d7-aae8-bed89491e49d"
       },
       {
+        "Title": "Jenna's test cases",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "4328f912-8e5e-460c-b08f-95b5f8b51222"
+      },
+      {
         "Title": "Workers Comp (Active) <div>",
         "Description": "",
         "Type": "WebElement",
@@ -17565,11 +17558,32 @@
         "Id": "44a8ea48-17e6-4912-b757-505327dd39c8"
       },
       {
+        "Title": "Pat's test cases",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "63de7f28-6048-486e-a8bd-793fc6d9f237"
+      },
+      {
         "Title": "Employment Settings <span>",
         "Description": "",
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "644efabf-0890-48bb-9384-d32d54c95611"
+      },
+      {
+        "Title": "Test Case 8768 - HR - Update employment status (City)",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "69cab936-99e3-4ca6-a655-654503b9b3a0"
+      },
+      {
+        "Title": "New Folder",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "6c2873e0-701b-4123-a119-4cd275935f59"
       },
       {
         "Title": "Next <span>",
@@ -17628,27 +17642,6 @@
         "Id": "93c18c5a-db1c-4707-aafd-59c8009fddca"
       },
       {
-        "Title": "New Folder",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "af016408-eaa4-4d2f-bff4-8cd4e5e1a6f6"
-      },
-      {
-        "Title": "Test Case 8768 - HR - Update employment status (City)",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "ba01ea2f-5482-4917-8c4b-a6c24a824d7f"
-      },
-      {
-        "Title": "Current Test Flows",
-        "Description": "",
-        "Type": "Folder",
-        "LinkedWith": "None",
-        "Id": "cbeedf1b-2e88-455b-a6d1-835fa0f7e6f5"
-      },
-      {
         "Title": "Test Case 8769 - HR - Remove future status and work assignment records upon termination (City)",
         "Description": "",
         "Type": "Flow",
@@ -17668,6 +17661,13 @@
         "Type": "WebElement",
         "LinkedWith": "None",
         "Id": "e2a3c4f1-6e0e-43b2-84b8-d7347dfb139d"
+      },
+      {
+        "Title": "Current Test Flows",
+        "Description": "",
+        "Type": "Folder",
+        "LinkedWith": "None",
+        "Id": "e6575c81-ab7c-4af0-889a-c03548e52732"
       },
       {
         "Title": "text <input> 1",
@@ -17927,7 +17927,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/ztv_lh8QcUqxhSIqWgK7ag/Common/#SHViPyZpc0ZpcnN0RmVhdHVyZT10cnVl",
         "Fields": "",
-        "StrategyListSource": "805483ec-9b04-429b-96a7-b9145bdeffa3",
+        "StrategyListSource": "9db5ddf8-2930-4475-a6db-01bb85c05b7b",
         "HasImage": "False",
         "RawId": "151062dd-ea7f-4851-a3fa-b7525c9cc143",
         "SelectedStrategyId": "7109ca36-5a38-4bb3-bcc0-bbf48904ce26",
@@ -17943,7 +17943,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/no-fKbzpVkK2QDdOFFY0uw/Common/",
         "Fields": "",
-        "StrategyListSource": "f111d152-5d79-47a2-88f5-4b01837a4279",
+        "StrategyListSource": "9ad96a90-5748-4b92-98e3-a4401de6bc20",
         "HasImage": "False",
         "RawId": "53fd51ee-b397-41d1-8fe3-66df53ac3720",
         "SelectedStrategyId": "1d19c7a4-d506-4966-b36a-aeea7134895b",
@@ -17959,7 +17959,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/no-fKbzpVkK2QDdOFFY0uw/Common/",
         "Fields": "",
-        "StrategyListSource": "636f4b26-b407-4d22-88b7-1f55441bff84",
+        "StrategyListSource": "af349efc-a286-4441-a5ec-e5ee09c92e91",
         "HasImage": "False",
         "RawId": "90ab8db6-78a2-4b52-a374-aef2e45e019b",
         "SelectedStrategyId": "1999012e-dbeb-4daf-b819-6efd253c5384",
@@ -17975,7 +17975,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/no-fKbzpVkK2QDdOFFY0uw/Common/",
         "Fields": "",
-        "StrategyListSource": "e58d5936-32b0-4255-b37b-d11f9afaeb9a",
+        "StrategyListSource": "a9b4d61c-6b00-42fc-b1ac-0382d04527a7",
         "HasImage": "False",
         "RawId": "d474255c-a53b-43e9-8b1f-df4c36555a22",
         "SelectedStrategyId": "c6bae9c2-367e-41a1-bf81-e5158fb70bdd",
@@ -17991,7 +17991,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/Mydayforce.aspx?c=cityofcolumbus",
         "Fields": "",
-        "StrategyListSource": "b9470273-82c0-45bb-91a5-1f2c2be3c5a9",
+        "StrategyListSource": "a80f8126-aff4-4325-8742-d85cd71985cf",
         "HasImage": "False",
         "RawId": "3bebcc91-d4da-4e77-aeb4-0b0f8a286dad",
         "SelectedStrategyId": "282fe75f-c259-49dd-9994-4c0d4ebfb4f2",
@@ -18007,7 +18007,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/ztv_lh8QcUqxhSIqWgK7ag/Common/#!",
         "Fields": "",
-        "StrategyListSource": "2a656857-c07c-4e68-a052-ba9d25135a58",
+        "StrategyListSource": "d218a66d-f237-4673-a2f5-4aebbc2d5151",
         "HasImage": "False",
         "RawId": "24522128-c6c2-424b-aff1-7105b2df66fb",
         "SelectedStrategyId": "1c985787-05fb-4ae1-903d-a09949ef4af3",
@@ -18023,7 +18023,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/Mydayforce.aspx?c=cityofcolumbus",
         "Fields": "",
-        "StrategyListSource": "44d8a336-bb52-4348-b983-c36ada9a9b3b",
+        "StrategyListSource": "52243dcf-5d8d-4504-ac97-12fbfdf3b00a",
         "HasImage": "False",
         "RawId": "e132e1ae-cc8d-4a32-b92e-7c712bdaa836",
         "SelectedStrategyId": "07b59287-e1d8-4bf4-ba96-a1edff1c3f49",
@@ -18039,7 +18039,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/ztv_lh8QcUqxhSIqWgK7ag/Common/#!",
         "Fields": "",
-        "StrategyListSource": "be341a8d-850f-4383-9158-f15255e8399d",
+        "StrategyListSource": "1b192a4c-6105-4c9a-87dc-daa68e7628a2",
         "HasImage": "False",
         "RawId": "43f5294b-2cfa-45ab-ad1d-902f1d603217",
         "SelectedStrategyId": "8e019e0d-6c88-4b36-a7f7-19eb63d5902a",
@@ -18055,7 +18055,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/oFIHKuQMyUutAOsWZrcnAw/Common/",
         "Fields": "",
-        "StrategyListSource": "580d5aa8-f52f-47a9-9ef5-d395f2201f07",
+        "StrategyListSource": "c1fdacce-7ccd-42f1-9424-d661b82ef685",
         "HasImage": "False",
         "RawId": "c56036c0-bb1b-4d24-8b1d-e5dc18cb9178",
         "SelectedStrategyId": "22149d85-73ad-4c6d-bba9-605d68a5644c",
@@ -18071,7 +18071,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/ztv_lh8QcUqxhSIqWgK7ag/Common/#SHViPyZpc0ZpcnN0RmVhdHVyZT10cnVl",
         "Fields": "",
-        "StrategyListSource": "90ffcb14-68e7-4e01-98f3-029bd7658dbe",
+        "StrategyListSource": "b21ba2ec-7fb0-4de3-8b3e-a58b389eafe5",
         "HasImage": "False",
         "RawId": "54f691e6-8491-4558-b998-de1783f2ec98",
         "SelectedStrategyId": "5970c98a-f69f-4b63-a752-319ff2d6bffa",
@@ -18087,7 +18087,7 @@
       {
         "Uri": "https://test.dayforcehcm.com/mydayforce/login.aspx",
         "Fields": "",
-        "StrategyListSource": "c9517919-6ccf-47d6-8c66-1880c26014a0",
+        "StrategyListSource": "9a13d02d-9b08-4bda-88e0-6dcc6c4e306f",
         "HasImage": "False",
         "RawId": "ef2afa00-f03b-495d-a0d4-f0ea76f6a15e",
         "SelectedStrategyId": "2f0cbf66-ee70-420f-8670-4fc1f17348f8",
@@ -18103,7 +18103,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/ztv_lh8QcUqxhSIqWgK7ag/Common/#!",
         "Fields": "",
-        "StrategyListSource": "13088f09-c459-49e8-bdf2-018bc1fa1a67",
+        "StrategyListSource": "1be7a065-827f-4013-b44d-9c072ec183c2",
         "HasImage": "False",
         "RawId": "f0461958-0070-48da-8be9-7caa325deec0",
         "SelectedStrategyId": "bf27836b-6428-4233-9dc0-8d4291d04078",
@@ -18119,7 +18119,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/ztv_lh8QcUqxhSIqWgK7ag/Common/#!",
         "Fields": "",
-        "StrategyListSource": "1174e07c-7b98-4c95-b57e-e2b3ec337cb0",
+        "StrategyListSource": "ec4caeac-24c7-45d0-b1c2-e88823e865b4",
         "HasImage": "False",
         "RawId": "006db6b1-4648-48c3-a904-6922503a06c0",
         "SelectedStrategyId": "78a50717-8319-46e7-b861-f095700a7c04",
@@ -18135,7 +18135,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/Mydayforce.aspx?c=cityofcolumbus",
         "Fields": "",
-        "StrategyListSource": "9e68e3a4-ed41-46b0-930b-523fb33d2062",
+        "StrategyListSource": "bbf5b319-e5a8-4744-94e1-45d687b91856",
         "HasImage": "False",
         "RawId": "82d37342-8d22-4b15-872a-dc6cc6ae25ca",
         "SelectedStrategyId": "0abfaa32-c4c0-4735-9a50-3b61b7f12f73",
@@ -18151,7 +18151,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/ztv_lh8QcUqxhSIqWgK7ag/Common/#!",
         "Fields": "",
-        "StrategyListSource": "7ed56a03-2d8e-4713-9eb7-a499f65234b7",
+        "StrategyListSource": "359f072f-2a1d-4e50-849e-af64fec2fbff",
         "HasImage": "False",
         "RawId": "83d4236b-c342-4696-a4d1-3721d99e9307",
         "SelectedStrategyId": "e2477f4c-c19c-4c3c-a14f-d076f141194c",
@@ -18167,7 +18167,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/oFIHKuQMyUutAOsWZrcnAw/Common/",
         "Fields": "",
-        "StrategyListSource": "80715494-1dc6-4810-88f2-9a6ca18e3806",
+        "StrategyListSource": "84710e1d-badd-47f7-8444-a5ebe07cb285",
         "HasImage": "False",
         "RawId": "5f06c042-cd82-41d0-b7b2-e3ea8c3fa854",
         "SelectedStrategyId": "95ae5b97-93db-4e2e-b3e7-7e668f88f3c3",
@@ -18183,7 +18183,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/u/ztv_lh8QcUqxhSIqWgK7ag/Common/#!",
         "Fields": "",
-        "StrategyListSource": "a3a8851e-736a-41e5-935b-56b10b18f0cb",
+        "StrategyListSource": "19a8dfe5-2c4f-4037-8035-aaf97e292600",
         "HasImage": "False",
         "RawId": "bb4abf6e-3602-493f-9a6a-05f5b0cbd473",
         "SelectedStrategyId": "bdccf0ca-a3e7-4cf4-a6f7-78405a7cfbb0",
@@ -18199,7 +18199,7 @@
       {
         "Uri": "https://ustest261.dayforcehcm.com/MyDayforce/Mydayforce.aspx?c=cityofcolumbus",
         "Fields": "",
-        "StrategyListSource": "2e4212ca-ba1a-4987-9ded-367c14d74415",
+        "StrategyListSource": "61ccd014-df32-4e91-a2f6-4f13c561b3b8",
         "HasImage": "False",
         "RawId": "ca45c5f9-8f21-483c-a3a7-45d179dd5a2e",
         "SelectedStrategyId": "9f0470ae-6645-4f58-ab91-f809a8e22069",
@@ -18215,7 +18215,7 @@
       {
         "Uri": "https://test.dayforcehcm.com/mydayforce/login.aspx",
         "Fields": "",
-        "StrategyListSource": "caa7e748-7ba7-420b-ac4a-bf4e31221b89",
+        "StrategyListSource": "f2e85b9c-9254-45d3-9cdc-ce4da3bae2ba",
         "HasImage": "False",
         "RawId": "cfe7d331-6e66-4342-8967-e3223008ade7",
         "SelectedStrategyId": "a150da47-5ff6-4642-818e-eb1a4a10980c",
